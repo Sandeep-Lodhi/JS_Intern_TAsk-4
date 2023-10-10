@@ -1,0 +1,16 @@
+/* This link add for use google fonts...  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,500;1,300&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    /* background-color:rgb(250, 201, 201) ; */
+    background-color: rgba(50, 115, 220, 0.3);
+}
+/* #con{
+    margin-top: 30px;
+
+} */
